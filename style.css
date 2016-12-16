@@ -1,0 +1,9 @@
+/* stops global navigation from floating everything left */
+.ms-breadcrumb-top {
+  white-space: normal;
+}
+
+/* content below the global navigation will now be pushed down on small window sizes */
+#s4-titlerow {
+    height: auto;
+}
